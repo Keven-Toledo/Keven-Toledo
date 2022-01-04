@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Keven Toledo 👋
 
 ![Keven-Toledo GitHub stats](https://github-readme-stats.vercel.app/api?username=Keven-Toledo&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keven-Toledo&layout=compact&theme=algolia)](https://github.com/Keven-Toledo/github-readme-stats)
+
 <div style="display: inline_block"><br/>
   <img align="center" alt="Pyhton3" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
