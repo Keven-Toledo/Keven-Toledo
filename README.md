@@ -1,4 +1,4 @@
-<h2> Olá! Eu sou o Keven Toledo 👋</h2>
+<h2> HI! I'm Keven Toledo 👋</h2>
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Keven-Toledo&show_icons=true&theme=algolia" />
