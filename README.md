@@ -1,4 +1,4 @@
-<h2> HI! I'm Keven Toledo 👋</h2>
+<h2> Olá! Eu sou o Keven Toledo 👋</h2>
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Keven-Toledo&show_icons=true&theme=algolia" />
@@ -14,4 +14,3 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keventoledo08@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keven-toledo/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521985639744)
-
