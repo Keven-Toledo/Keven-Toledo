@@ -1,5 +1,5 @@
 <h1>Keven Toledo</h1>
-
+<hr>
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Keven-Toledo&show_icons=true&theme=algolia" />
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keven-Toledo&layout=compact&custom_title=Most used languages by Keven&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=flase&theme=algolia=">
